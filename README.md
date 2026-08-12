@@ -1,2 +1,2 @@
-# VATSSA-Hangout
-VATSSA Hangout webhook bot
+# VATSIM BOT
+VATSIM BOT
